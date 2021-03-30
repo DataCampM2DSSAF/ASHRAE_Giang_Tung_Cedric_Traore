@@ -21,11 +21,12 @@ With the given data of over 1000 buildings during a three-year period, our objec
 This project started on January 22 and ended on March 31.
 
 <a id="conte"></a>
-#Contents of the repository
+
+# Contents of the repository
 This repository contains the following files:
 
 
-<a id="conte"></a>
+<a id="pd"></a>
 # Approaching Steps
 
 1. Study the data and data structure
@@ -37,7 +38,7 @@ This repository contains the following files:
 
 # Contributors: 
 Our group members are:
-- DJIOMOU NGONGANG Cedric
-- LE Son Tung
-- NGUYEN Thi Ha Giang
-- TRAORE Babou
+1. DJIOMOU NGONGANG Cedric
+2. LE Son Tung
+3. NGUYEN Thi Ha Giang
+4. TRAORE Babou
