@@ -24,7 +24,7 @@ This project started on January 22, 2021 and ended on March 31, 2021.
 
 # Contents of the repository
 The repository contains the following files:
-- Code: the code which gives us the best score
+- Code: the code with different models
 - Suivi: the track project progress, including our tasks and results throughout the weeks
 - Report: the summary of our project
 
